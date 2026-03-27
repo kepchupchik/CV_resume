@@ -39,7 +39,7 @@
 
 ---
 
-### 🚀 Мои ключевые проекты:
+###  Мои ключевые проекты:
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
@@ -89,14 +89,6 @@
   - Умею кататься на трюковом самокате(раньше умела делать трюки)
   - Люблю путешестовать
   - Хожу в походы: пешие в Хибины, водные походы на байдарках на Ладогу, Онежское озеро, Походы на машине вокруг озёр
-
----
-
-###  GitHub Stats:
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=kepchupchik&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kepchupchik&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
