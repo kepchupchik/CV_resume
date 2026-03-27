@@ -1,6 +1,6 @@
 # Привет! Я Анна Лиукконен
 
-Я ученица 9 класса физмат-лицея №393 (Санкт-Петербург). Увлекаюсь **Python-разработкой**, **Data Science** и **алгоритмическим программированием**. Активно участвую в олимпиадах и хакатонах.
+Я ученица 9 класса физмат-лицея №393 (Санкт-Петербург). Увлекаюсь **Python-разработкой**, **Data Science**, **Анализом данных** и **алгоритмическим программированием**. Активно участвую в олимпиадах и хакатонах.
 
 ---
 
@@ -49,10 +49,8 @@
 ---
 
 ### 📫 Как со мной связаться:
-- **Email:** [annor.key.1@gmail.com](mailto:annor.key.1@gmail.com)
-- **Telegram:** [@ваш_ник_если_есть]
+- **Email:** [annor.key.1@gmail.com](mailto:annor.key.1@gmail.com); [Kepchu-p@yandex.ru](mailto:Kepchu-p@yandex.ru)
+- **Telegram:** [@K_e_p_c_h_u_p]
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kepchupchik&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+Мои проекты можете посмотреть на аккаунте GitHub
