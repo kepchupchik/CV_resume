@@ -43,9 +43,9 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
-| **[Coin-Rush-Arcade]([https://github.com/kepchupchik/web-project](https://github.com/kepchupchik/V2.0__Coin-Rush-Arcade_python-project))** | Flask, SQL, Select2 | Веб-галерея с авторизацией и умным поиском по тегам и описаниям. |
-| **[SchoolDoc Helper]([https://github.com/kepchupchik/school-docs-helper](https://github.com/kepchupchik/SchoolDoc_Helper))** | PyQt6, Python | Автоматизация создания школьных заявлений с умным переносом строк (70 симв). |
-| **[PhotoFlow web-project]([https://github.com/kepchupchik/game-project](https://github.com/kepchupchik/PhotoFlow_web-project))** | Pygame, Mixer | 2D-аркада с системой уровней, звуковыми эффектами и преследующим AI. |
+| **[Coin-Rush-Arcade]([https://github.com/kepchupchik/web-project](https://github.com/kepchupchik/V2.0__Coin-Rush-Arcade_python-project))** | Flask, SQL | Веб-галерея с авторизацией и умным поиском по тегам и описаниям. |
+| **[SchoolDoc Helper]([https://github.com/kepchupchik/school-docs-helper](https://github.com/kepchupchik/SchoolDoc_Helper))** | PyQt6, Python | Автоматизация создания школьных заявлений. |
+| **[PhotoFlow web-project]([https://github.com/kepchupchik/game-project](https://github.com/kepchupchik/PhotoFlow_web-project))** | Pygame | 2D-аркада с системой уровней, звуковыми эффектами и преследующим персонажем. |
 
 ---
 
@@ -71,7 +71,7 @@
   - **Информатика:** Промышленное программирование и алгоритмика.
   - **Естественные науки:** Физика, Химия.
   - **Engineering:** Небольшие навыки 3D-моделирования(3DsMax, Blender)
-* **Яндекс Специализация:** «Анализ данных» (завершено, 2025).
+* **Яндекс Специализация:** «Анализ данных» (завершено, 2025, сертификат прикреплен).
 * **Яндекс Специализация:** «Machine Learning» (в процессе, 2025-2026).
 
 ---
@@ -88,7 +88,8 @@
   - Учусь кататься на скейтборде
   - Умею кататься на трюковом самокате(раньше умела делать трюки)
   - Люблю путешестовать
-  - Хожу в походы: пешие в Хибины, водные походы на байдарках на Ладогу, Онежское озеро, Походы на машине вокруг озёр
+  - Люблю кататься на горных лыжах
+  - Хожу в походы: пешие в Хибины; водные походы на байдарках на Ладогу, Онежское озеро; Походы на машине вокруг озёр
 
 ---
 
