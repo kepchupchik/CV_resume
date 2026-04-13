@@ -24,13 +24,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234470AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
-*Инструменты:* Математическая статистика, визуализация данных, основы нейросетей.
 
-**Frameworks & Libraries:**
-- **Web:** Flask (Backend), Jinja2.
-- **GUI:** PyQt6, Tkinter.
-- **GameDev:** Pygame.
-- **Testing:** Pytest.
+*Инструменты:* Математическая статистика, визуализация данных, основы нейросетей.
 
 **Computer Science Foundation:**
 - Алгоритмы и структуры данных.
@@ -40,12 +35,13 @@
 ---
 
 ###  Мои ключевые проекты:
+**Все мои проекты можно посмотреть**
+
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
 | **[Анализ климатического оборудования](https://github.com/kepchupchik/Analysis_of_satisfaction_with_climate_equipment)** | Pandas, matplotlib, seaborn, scikit-learn | Комплексное исследование удовлетворенности климатическим оборудованием: EDA, проверка 10+ статистических гипотез, регрессионное моделирование и интерактивная визуализация в DataLens. |
 | **[Обработчик табличных данных](https://github.com/kepchupchik/school-docs-helper)** | Tkinter, Pandas, NumPy, matplotlib, Python | Инструмент позволяет быстро находить аномалии и устранять дефекты в датасетах без необходимости писать скрипты для каждой новой таблицы, делая данные готовыми к работе в несколько кликов. |
-| **[PhotoFlow web-project]([https://github.com/kepchupchik/game-project](https://github.com/kepchupchik/PhotoFlow_web-project))** | Pygame | 2D-аркада с системой уровней, звуковыми эффектами и преследующим персонажем. |
 
 ---
 
@@ -72,6 +68,8 @@
   - **Информатика:** Промышленное программирование и алгоритмика.
   - **Естественные науки:** Физика, Химия.
   - **Engineering:** Небольшие навыки 3D-моделирования(3DsMax, Blender)
+* **Яндекс курс "Основы python":** (завершено, 2024).
+* **Яндекс курс "Основы промышленного программирования":** (завершено, 2025, сертификат прикреплён.).
 * **Яндекс Специализация:** «Анализ данных» (завершено, 2025, сертификат прикреплен).
 * **Яндекс Специализация:** «Machine Learning» (в процессе, 2025-2026).
 
@@ -94,6 +92,6 @@
 
 ---
 
-### 📫 Как со мной связаться:
+###  Как со мной связаться:
 - **Email:** [annor.key.1@gmail.com](mailto:annor.key.1@gmail.com) | [Kepchu-p@yandex.ru](mailto:Kepchu-p@yandex.ru)
 - **Telegram:** [@K_e_p_c_h_u_p]
