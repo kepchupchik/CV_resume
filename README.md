@@ -43,8 +43,8 @@
 
 | Проект | Стек | Описание |
 | :--- | :--- | :--- |
-| **[Coin-Rush-Arcade]([https://github.com/kepchupchik/web-project](https://github.com/kepchupchik/V2.0__Coin-Rush-Arcade_python-project))** | Flask, SQL | Веб-галерея с авторизацией и умным поиском по тегам и описаниям. |
-| **[SchoolDoc Helper]([https://github.com/kepchupchik/school-docs-helper](https://github.com/kepchupchik/SchoolDoc_Helper))** | PyQt6, Python | Автоматизация создания школьных заявлений. |
+| **[Анализ климатического оборудования](https://github.com/kepchupchik/Analysis_of_satisfaction_with_climate_equipment)** | Pandas, matplotlib, seaborn, scikit-learn | Комплексное исследование удовлетворенности климатическим оборудованием: EDA, проверка 10+ статистических гипотез, регрессионное моделирование и интерактивная визуализация в DataLens. |
+| **[Обработчик табличных данных](https://github.com/kepchupchik/school-docs-helper)** | Tkinter, Pandas, NumPy, matplotlib, Python | Инструмент позволяет быстро находить аномалии и устранять дефекты в датасетах без необходимости писать скрипты для каждой новой таблицы, делая данные готовыми к работе в несколько кликов. |
 | **[PhotoFlow web-project]([https://github.com/kepchupchik/game-project](https://github.com/kepchupchik/PhotoFlow_web-project))** | Pygame | 2D-аркада с системой уровней, звуковыми эффектами и преследующим персонажем. |
 
 ---
